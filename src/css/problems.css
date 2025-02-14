@@ -1,0 +1,83 @@
+.problem-list-header, .problem-list-row {
+    display: grid;
+    grid-template-columns: 50px minmax(200px, 1fr) 120px 120px minmax(120px, 200px) 120px 100px 100px;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.problem-list-header {
+    font-weight: bold;
+    background-color: #007bff;
+    font-size: 1.2rem;
+    color: #f0f0f0;
+}
+
+.problem-list-row {
+    background-color: #f9f9f9;
+    font-size: 1.2rem;
+    color: #000;
+}
+
+.problem-list-row:hover {
+    background-color: #ffffffb3;
+}
+
+.problem-algorithms {
+    padding: 8px;
+}
+
+.algorithm-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.algorithm-list-item {
+    margin: 4px 0;
+}
+
+.algorithm-filter-link {
+    color: #007bff;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.algorithm-filter-link:hover {
+    color: #0056b3;
+}
+
+.problem-link a {
+    color: #007bff;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.problem-link a:hover {
+    color: #0056b3;
+}
+
+.pagination-controls {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.pagination-controls button {
+    margin: 0 5px;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    background-color: #000;
+    cursor: pointer;
+}
+
+.pagination-controls button.active {
+    font-weight: bold;
+    color: #fff;
+    background-color: #007bff;
+}
+
+.pagination-controls button:disabled {
+    cursor: not-allowed;
+    opacity: 0.5;
+}
