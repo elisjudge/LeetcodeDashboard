@@ -1,0 +1,22 @@
+.language-logo {
+    height: 60px;
+    width: 60px;
+    overflow: hidden;
+    background-color: #85b5d7ee;
+    border-radius: 20%;
+}
+
+.problem-language-logo {
+    height: 60px;
+    width: 60px;
+    overflow: hidden;
+    border-radius: 20%;
+}
+
+.language-logo img, 
+.problem-language-logo img{
+    width: 100%;
+    height: auto;
+    max-height: 100%;
+}
+

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LeetCode Dashboard</title>
+  <link rel="icon" type="image/svg+xml" href="/images/dashboard-icon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Hedvig+Letters+Sans&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/dash.css">
+  <link rel="stylesheet" href="css/nav.css">
+  <link rel="stylesheet" href="css/pills.css">
+  <link rel="stylesheet" href="css/problems.css">
+  <link rel="stylesheet" href="css/logos.css">
+
+</head>
+<body>
+  <header>
+      <div class="filters">
+          <div class="languages-container"></div>
+          <div class="algorithm-container"></div>
+          <div class="statuses-container"></div>
+          <div class="difficulties-container"></div>
+      </div>
+  </header>
+  <main>
+    <section class="dashboard">
+      <div class="progressStats" id="progressStats">
+        <div class="progress-stat-box">
+          <div class="progressStatLabel">
+            <span>Total Problems</span>
+          </div>
+          <div class="progress-count-container" id="totalProblemCountContainer"></div>
+        </div>
+        <div class="progress-stat-box">
+          <div class="progressStatLabel">
+            <span>Completed</span>
+          </div>
+          <div class="progress-count-container" id="CompletedCountContainer"></div>
+        </div>
+        <div class="progress-stat-box">
+          <div class="progressStatLabel">
+            <span>In Progress</span>
+          </div>
+          <div class="progress-count-container" id="InProgressCountContainer"></div>
+        </div>
+        <div class="progress-stat-box">
+          <div class="progressStatLabel">
+            <span>Not Started</span>
+          </div>
+          <div class="progress-count-container" id="NotStartedCountContainer"></div>
+        </div>
+      </div>
+      <div class="progress-circles">
+          <div id="overallProgress">
+            <h3>Overall Progress</h3>
+          </div>
+          <div class="difficulty-circles">
+              <div id="easyProgress">
+                <h3>Easy Problems</h3>
+              </div>
+              <div id="mediumProgress">
+                <h3>Medium Problems</h3>
+              </div>
+              <div id="hardProgress">
+                <h3>Hard Problems</h3>
+              </div>
+          </div>
+      </div>
+    </section>
+    <section id="problemList">
+      <ul id="problems">
+      </ul>
+    </section>
+  </main>
+    <script src="./d3.v7.min.js"></script>
+    <script type="module" src="js/main.js"></script>    
+</body>
+</html>

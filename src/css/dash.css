@@ -1,0 +1,57 @@
+.dashboard {
+    display: flex;
+    flex-direction: column;
+}
+
+#currentSelection {
+    width: 100%;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 10px;
+    margin-bottom: 2rem;
+}
+
+.progressStats {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 3.5rem;
+}
+
+.progress-stat-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.progressStatLabel {
+    font-size: 1.3rem;
+}
+
+.progress-count-container {
+    font-size: 4rem;
+}
+
+.progress-circles {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    gap: 100px;
+    margin-bottom: 3.5rem;
+}
+
+#overallProgress {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.difficulty-circles {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
