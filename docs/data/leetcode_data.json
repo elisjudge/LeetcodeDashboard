@@ -5330,6 +5330,17 @@
             "link": "https://leetcode.com/problems/array-wrapper"
         },
         {
+            "id": "2698",
+            "title": "Find the Punishment Number of an Integer",
+            "difficulty": "Medium",
+            "algorithms": [
+                "Math",
+                "Backtracking"
+            ],
+            "premium": "False",
+            "link": "https://leetcode.com/problems/find-the-punishment-number-of-an-integer"
+        },
+        {
             "id": "2703",
             "title": "Return Length of Arguments Passed",
             "difficulty": "Easy",
@@ -13589,6 +13600,26 @@
             "id": "2695",
             "language": "JavaScript",
             "status": "Done"
+        },
+        {
+            "id": "2698",
+            "language": "Python",
+            "status": "Done"
+        },
+        {
+            "id": "2698",
+            "language": "JavaScript",
+            "status": "Not Started"
+        },
+        {
+            "id": "2698",
+            "language": "CSharp",
+            "status": "Not Started"
+        },
+        {
+            "id": "2698",
+            "language": "C",
+            "status": "Not Started"
         },
         {
             "id": "2703",
