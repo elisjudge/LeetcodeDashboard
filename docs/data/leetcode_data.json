@@ -462,7 +462,8 @@
             "algorithms": [
                 "Array",
                 "Hash Table",
-                "Matrix"
+                "Matrix",
+                "Heap"
             ],
             "premium": "False",
             "link": "https://leetcode.com/problems/valid-sudoku"
@@ -6369,7 +6370,7 @@
         {
             "id": "37",
             "language": "Python",
-            "status": "Not Started"
+            "status": "Done"
         },
         {
             "id": "37",
@@ -6389,7 +6390,7 @@
         {
             "id": "38",
             "language": "Python",
-            "status": "Not Started"
+            "status": "Done"
         },
         {
             "id": "38",
