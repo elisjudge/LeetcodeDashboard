@@ -4663,6 +4663,17 @@
             "link": "https://leetcode.com/problems/invalid-tweets"
         },
         {
+            "id": "1718",
+            "title": "Construct the Lexicographically Largest Valid Sequence",
+            "difficulty": "Medium",
+            "algorithms": [
+                "Array",
+                "Backtracking"
+            ],
+            "premium": "False",
+            "link": "https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence"
+        },
+        {
             "id": "1726",
             "title": "Tuple with Same Product",
             "difficulty": "Medium",
@@ -6450,7 +6461,7 @@
         {
             "id": "41",
             "language": "Python",
-            "status": "Not Started"
+            "status": "Done"
         },
         {
             "id": "41",
@@ -6550,7 +6561,7 @@
         {
             "id": "47",
             "language": "Python",
-            "status": "Not Started"
+            "status": "Done"
         },
         {
             "id": "47",
@@ -7050,7 +7061,7 @@
         {
             "id": "75",
             "language": "Python",
-            "status": "Not Started"
+            "status": "Done"
         },
         {
             "id": "75",
@@ -12886,6 +12897,26 @@
             "id": "1683",
             "language": "SQL",
             "status": "Done"
+        },
+        {
+            "id": "1718",
+            "language": "Python",
+            "status": "Done"
+        },
+        {
+            "id": "1718",
+            "language": "JavaScript",
+            "status": "Not Started"
+        },
+        {
+            "id": "1718",
+            "language": "CSharp",
+            "status": "Not Started"
+        },
+        {
+            "id": "1718",
+            "language": "C",
+            "status": "Not Started"
         },
         {
             "id": "1726",
