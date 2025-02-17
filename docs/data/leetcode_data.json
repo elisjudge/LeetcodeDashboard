@@ -4206,6 +4206,18 @@
             "link": "https://leetcode.com/problems/project-employees-i"
         },
         {
+            "id": "1079",
+            "title": "Letter Tile Possibilities",
+            "difficulty": "Medium",
+            "algorithms": [
+                "Hash Table",
+                "String",
+                "BacktrackingCounting"
+            ],
+            "premium": "False",
+            "link": "https://leetcode.com/problems/letter-tile-possibilities"
+        },
+        {
             "id": "1137",
             "title": "N-th Tribonacci Number",
             "difficulty": "Easy",
@@ -5786,12 +5798,12 @@
         {
             "id": "7",
             "language": "JavaScript",
-            "status": "Not Started"
+            "status": "Done"
         },
         {
             "id": "7",
             "language": "CSharp",
-            "status": "Not Started"
+            "status": "Done"
         },
         {
             "id": "7",
@@ -6921,7 +6933,7 @@
         {
             "id": "68",
             "language": "Python",
-            "status": "In Progress"
+            "status": "Done"
         },
         {
             "id": "68",
@@ -7821,7 +7833,7 @@
         {
             "id": "122",
             "language": "Python",
-            "status": "In Progress"
+            "status": "Done"
         },
         {
             "id": "122",
@@ -8846,7 +8858,7 @@
         {
             "id": "209",
             "language": "Python",
-            "status": "In Progress"
+            "status": "Done"
         },
         {
             "id": "209",
@@ -10086,7 +10098,7 @@
         {
             "id": "380",
             "language": "Python",
-            "status": "In Progress"
+            "status": "Done"
         },
         {
             "id": "380",
@@ -10526,7 +10538,7 @@
         {
             "id": "452",
             "language": "Python",
-            "status": "In Progress"
+            "status": "Done"
         },
         {
             "id": "452",
@@ -12292,6 +12304,26 @@
             "id": "1075",
             "language": "SQL",
             "status": "Done"
+        },
+        {
+            "id": "1079",
+            "language": "Python",
+            "status": "Done"
+        },
+        {
+            "id": "1079",
+            "language": "JavaScript",
+            "status": "Not Started"
+        },
+        {
+            "id": "1079",
+            "language": "CSharp",
+            "status": "Not Started"
+        },
+        {
+            "id": "1079",
+            "language": "C",
+            "status": "Not Started"
         },
         {
             "id": "1137",
