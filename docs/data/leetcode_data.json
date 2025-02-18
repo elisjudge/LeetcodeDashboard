@@ -5019,6 +5019,19 @@
             "link": "https://leetcode.com/problems/count-number-of-bad-pairs"
         },
         {
+            "id": "2375",
+            "title": "Construct Smallest Number From DI String",
+            "difficulty": "Medium",
+            "algorithms": [
+                "String",
+                "Backtracking",
+                "Stack",
+                "Greedy"
+            ],
+            "premium": "False",
+            "link": "https://leetcode.com/problems/construct-smallest-number-from-di-string"
+        },
+        {
             "id": "2390",
             "title": "Removing Stars From a String",
             "difficulty": "Medium",
@@ -6178,12 +6191,12 @@
         {
             "id": "26",
             "language": "JavaScript",
-            "status": "Not Started"
+            "status": "Done"
         },
         {
             "id": "26",
             "language": "CSharp",
-            "status": "Not Started"
+            "status": "Done"
         },
         {
             "id": "26",
@@ -6198,12 +6211,12 @@
         {
             "id": "27",
             "language": "JavaScript",
-            "status": "Not Started"
+            "status": "Done"
         },
         {
             "id": "27",
             "language": "CSharp",
-            "status": "Not Started"
+            "status": "Done"
         },
         {
             "id": "27",
@@ -7193,7 +7206,7 @@
         {
             "id": "81",
             "language": "Python",
-            "status": "Not Started"
+            "status": "Done"
         },
         {
             "id": "81",
@@ -7298,12 +7311,12 @@
         {
             "id": "88",
             "language": "JavaScript",
-            "status": "Not Started"
+            "status": "Done"
         },
         {
             "id": "88",
             "language": "CSharp",
-            "status": "Not Started"
+            "status": "Done"
         },
         {
             "id": "88",
@@ -7573,7 +7586,7 @@
         {
             "id": "107",
             "language": "Python",
-            "status": "Not Started"
+            "status": "Done"
         },
         {
             "id": "107",
@@ -7673,7 +7686,7 @@
         {
             "id": "113",
             "language": "Python",
-            "status": "Not Started"
+            "status": "Done"
         },
         {
             "id": "113",
@@ -7733,7 +7746,7 @@
         {
             "id": "116",
             "language": "Python",
-            "status": "Not Started"
+            "status": "Done"
         },
         {
             "id": "116",
@@ -9218,7 +9231,7 @@
         {
             "id": "236",
             "language": "Python",
-            "status": "In Progress"
+            "status": "Done"
         },
         {
             "id": "236",
@@ -10378,7 +10391,7 @@
         {
             "id": "437",
             "language": "Python",
-            "status": "In Progress"
+            "status": "Done"
         },
         {
             "id": "437",
@@ -10498,7 +10511,7 @@
         {
             "id": "450",
             "language": "Python",
-            "status": "In Progress"
+            "status": "Done"
         },
         {
             "id": "450",
@@ -12388,7 +12401,7 @@
         {
             "id": "1161",
             "language": "Python",
-            "status": "In Progress"
+            "status": "Done"
         },
         {
             "id": "1161",
@@ -12643,7 +12656,7 @@
         {
             "id": "1372",
             "language": "Python",
-            "status": "In Progress"
+            "status": "Done"
         },
         {
             "id": "1372",
@@ -13452,6 +13465,26 @@
         },
         {
             "id": "2364",
+            "language": "C",
+            "status": "Not Started"
+        },
+        {
+            "id": "2375",
+            "language": "Python",
+            "status": "Done"
+        },
+        {
+            "id": "2375",
+            "language": "JavaScript",
+            "status": "Not Started"
+        },
+        {
+            "id": "2375",
+            "language": "CSharp",
+            "status": "Not Started"
+        },
+        {
+            "id": "2375",
             "language": "C",
             "status": "Not Started"
         },
