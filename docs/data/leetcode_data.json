@@ -4481,6 +4481,17 @@
             "link": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier"
         },
         {
+            "id": "1415",
+            "title": "The k-th Lexicographical String of All Happy Strings of Length n",
+            "difficulty": "Medium",
+            "algorithms": [
+                "String",
+                "Backtracking"
+            ],
+            "premium": "False",
+            "link": "https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n"
+        },
+        {
             "id": "1431",
             "title": "Kids With the Greatest Number of Candies",
             "difficulty": "Easy",
@@ -7006,7 +7017,7 @@
         {
             "id": "71",
             "language": "Python",
-            "status": "In Progress"
+            "status": "Done"
         },
         {
             "id": "71",
@@ -7226,7 +7237,7 @@
         {
             "id": "82",
             "language": "Python",
-            "status": "In Progress"
+            "status": "Done"
         },
         {
             "id": "82",
@@ -7366,7 +7377,7 @@
         {
             "id": "92",
             "language": "Python",
-            "status": "In Progress"
+            "status": "Done"
         },
         {
             "id": "92",
@@ -7506,7 +7517,7 @@
         {
             "id": "103",
             "language": "Python",
-            "status": "In Progress"
+            "status": "Done"
         },
         {
             "id": "103",
@@ -9531,7 +9542,7 @@
         {
             "id": "289",
             "language": "Python",
-            "status": "Not Started"
+            "status": "In Progress"
         },
         {
             "id": "289",
@@ -12682,6 +12693,26 @@
             "id": "1378",
             "language": "SQL",
             "status": "Done"
+        },
+        {
+            "id": "1415",
+            "language": "Python",
+            "status": "Done"
+        },
+        {
+            "id": "1415",
+            "language": "JavaScript",
+            "status": "Not Started"
+        },
+        {
+            "id": "1415",
+            "language": "CSharp",
+            "status": "Not Started"
+        },
+        {
+            "id": "1415",
+            "language": "C",
+            "status": "Not Started"
         },
         {
             "id": "1431",
