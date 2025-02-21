@@ -4365,6 +4365,21 @@
             "link": "https://leetcode.com/problems/average-selling-price"
         },
         {
+            "id": "1261",
+            "title": "Find Elements in a Contaminated Binary Tree",
+            "difficulty": "Medium",
+            "algorithms": [
+                "Hash Table",
+                "Tree",
+                "Depth First Search",
+                "Breadth First Search",
+                "Design",
+                "Binary Tree"
+            ],
+            "premium": "False",
+            "link": "https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/"
+        },
+        {
             "id": "1268",
             "title": "Search Suggestions System",
             "difficulty": "Medium",
@@ -4884,6 +4899,19 @@
             ],
             "premium": "False",
             "link": "https://leetcode.com/problems/employees-whose-manager-left-the-company"
+        },
+        {
+            "id": "1980",
+            "title": "Find Unique Binary String",
+            "difficulty": "Medium",
+            "algorithms": [
+                "Array",
+                "Hash Table",
+                "String",
+                "Backtracking"
+            ],
+            "premium": "False",
+            "link": "https://leetcode.com/problems/find-unique-binary-string"
         },
         {
             "id": "1984",
@@ -6357,7 +6385,7 @@
         {
             "id": "34",
             "language": "Python",
-            "status": "In Progress"
+            "status": "Done"
         },
         {
             "id": "34",
@@ -6837,7 +6865,7 @@
         {
             "id": "61",
             "language": "Python",
-            "status": "In Progress"
+            "status": "Done"
         },
         {
             "id": "61",
@@ -7297,7 +7325,7 @@
         {
             "id": "86",
             "language": "Python",
-            "status": "In Progress"
+            "status": "Done"
         },
         {
             "id": "86",
@@ -8397,7 +8425,7 @@
         {
             "id": "162",
             "language": "Python",
-            "status": "In Progress"
+            "status": "Done"
         },
         {
             "id": "162",
@@ -9102,7 +9130,7 @@
         {
             "id": "224",
             "language": "Python",
-            "status": "In Progress"
+            "status": "Done"
         },
         {
             "id": "224",
@@ -9542,7 +9570,7 @@
         {
             "id": "289",
             "language": "Python",
-            "status": "In Progress"
+            "status": "Done"
         },
         {
             "id": "289",
@@ -12545,6 +12573,26 @@
             "status": "Done"
         },
         {
+            "id": "1261",
+            "language": "Python",
+            "status": "Done"
+        },
+        {
+            "id": "1261",
+            "language": "JavaScript",
+            "status": "Not Started"
+        },
+        {
+            "id": "1261",
+            "language": "CSharp",
+            "status": "Not Started"
+        },
+        {
+            "id": "1261",
+            "language": "C",
+            "status": "Not Started"
+        },
+        {
             "id": "1268",
             "language": "Python",
             "status": "In Progress"
@@ -13268,6 +13316,26 @@
             "id": "1978",
             "language": "SQL",
             "status": "In Progress"
+        },
+        {
+            "id": "1980",
+            "language": "Python",
+            "status": "Done"
+        },
+        {
+            "id": "1980",
+            "language": "JavaScript",
+            "status": "Not Started"
+        },
+        {
+            "id": "1980",
+            "language": "CSharp",
+            "status": "Not Started"
+        },
+        {
+            "id": "1980",
+            "language": "C",
+            "status": "Not Started"
         },
         {
             "id": "1984",
