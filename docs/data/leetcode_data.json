@@ -4140,6 +4140,19 @@
             "link": "https://leetcode.com/problems/max-consecutive-ones-iii"
         },
         {
+            "id": "1028",
+            "title": "Recover a Tree From Preorder Traversal",
+            "difficulty": "Hard",
+            "algorithms": [
+                "String",
+                "Tree",
+                "Depth First Search",
+                "Binary Tree"
+            ],
+            "premium": "False",
+            "link": "https://leetcode.com/problems/recover-a-tree-from-preorder-traversal"
+        },
+        {
             "id": "1045",
             "title": "Customers Who Bought All Products",
             "difficulty": "Medium",
@@ -9030,7 +9043,7 @@
         {
             "id": "216",
             "language": "Python",
-            "status": "In Progress"
+            "status": "Done"
         },
         {
             "id": "216",
@@ -12274,6 +12287,26 @@
         },
         {
             "id": "1004",
+            "language": "C",
+            "status": "Not Started"
+        },
+        {
+            "id": "1028",
+            "language": "Python",
+            "status": "Done"
+        },
+        {
+            "id": "1028",
+            "language": "JavaScript",
+            "status": "Not Started"
+        },
+        {
+            "id": "1028",
+            "language": "CSharp",
+            "status": "Not Started"
+        },
+        {
+            "id": "1028",
             "language": "C",
             "status": "Not Started"
         },
@@ -13440,7 +13473,7 @@
         {
             "id": "2300",
             "language": "Python",
-            "status": "In Progress"
+            "status": "Done"
         },
         {
             "id": "2300",
